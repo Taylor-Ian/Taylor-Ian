@@ -1,8 +1,10 @@
 ---
-layout: single
+layout: collection
 title: Engineering Projects
 permalink: /engineeringprojects/
-excerpt: "nothing to see here"
+collection: EngineeringProjects
+entries_layout: grid
+classes: wide
 ---
 
 Nothing to see here yet, stay tuned.

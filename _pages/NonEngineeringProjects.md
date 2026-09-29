@@ -1,6 +1,6 @@
 ---
-layout: single
-title: Engineering Projects
+layout: collection
+title: Non-Engineering Projects
 permalink: /nonengineeringprojects/
 ---
 

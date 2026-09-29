@@ -1,0 +1,5 @@
+Welcome!
+
+Thanks for checking out my website. I initially got the idea to make a website solely to have an engineering portfolio I could easily share with potential employers. I've already done a variety of light engineering projects, as my degree is in mechanical engineering and I am a tinkerer by nature. However, I wanted to push them a little further by introducing more rigor, and I needed a place to put them. The thing is, I don't just do engineering projects. All my projects are done because I genuinely enjoy doing them, or because I am looking to solve a very specific problem. This is what led me to decide that if I was going to put all this time into building a website and put projects on there, I might as well make it a more encompassing creative outlet. I decided to let a shareable portfolio be a natural side-effect of this project. That's all this website will be: a creative outlet. I hope it makes me more employable too, but I will try to keep everything as non-performative as possible and act like I'm just writing in a journal.
+
+-Ian

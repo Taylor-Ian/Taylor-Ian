@@ -3,8 +3,6 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
-  - title: "Articles"
-    url: /articles/
   - title: "Engineering Projects"
     url: /engineeringprojects/
   - title: "Non-Engineering Projects"

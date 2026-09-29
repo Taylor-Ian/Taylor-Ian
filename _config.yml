@@ -333,12 +333,39 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
       show_date: true
+
+  # EngineeringProjects
+  - scope:
+      path: ""
+      type: EngineeringProjects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+  # NonEngineeringProjects
+  - scope:
+      path: ""
+      type: NonEngineeringProjects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+
+# collections
+collections:
+  EngineeringProjects:
+    output: true
+  NonEngineeringProjects:
+    output: true
+
 
 #Activate the _pages folder
 include: ["_pages"]

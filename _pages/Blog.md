@@ -1,6 +1,6 @@
 ---
-title: "Blog Posts"
-layout: single
+title: "Blog"
+layout: home
 permalink: /blog/
 ---
 
