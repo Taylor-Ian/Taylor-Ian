@@ -2,6 +2,7 @@
 title: "Blog"
 layout: home
 permalink: /blog/
+pagination:
+  enabled: true
+  per_page: 6
 ---
-
-Nothing to see here yet, stay tuned.

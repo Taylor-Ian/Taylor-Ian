@@ -11,8 +11,8 @@ var store = [{
         "url": "/engineeringprojects/nothingmachine",
         "teaser": null
       },{
-        "title": "Website With Jekyll",
-        "excerpt":"Hopefully you've been navigating the first engineering project of my portfolio and you're impressed. You shouldn't be that impressed yet actually, because building a website is pretty easy these days. The caveat to that is if you choose to make building a website slightly harder on purpose. This might make...","categories": [],
+        "title": "Website Built With Jekyll & Github Pages",
+        "excerpt":"Hopefully you’ve been navigating the first engineering project of my portfolio and you’re impressed. You shouldn’t be that impressed yet actually, because building a website is pretty easy these days. The caveat to that is if you choose to make building a website slightly harder on purpose. This might make...","categories": [],
         "tags": [],
         "url": "/engineeringprojects/websitewithjekyll",
         "teaser": null
@@ -23,9 +23,9 @@ var store = [{
         "url": "/engineeringprojects/lifemachine",
         "teaser": null
       },{
-        "title": "My First Post",
+        "title": "Welcome!",
         "excerpt":"Welcome! Thanks for checking out my website. I initially got the idea to make a website solely to have an engineering portfolio I could easily share with potential employers. I’ve already done a variety of light engineering projects, as my degree is in mechanical engineering and I am a tinkerer...","categories": [],
         "tags": [],
-        "url": "/My-First-Post/",
+        "url": "/Welcome!/",
         "teaser": null
       }]
