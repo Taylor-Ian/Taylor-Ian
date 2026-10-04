@@ -1,26 +1,8 @@
 var store = [{
-        "title": "Death Machine",
-        "excerpt":"Did I really build a death machine?   Okay, i didn’t really build a death machine  ","categories": [],
-        "tags": [],
-        "url": "/engineeringprojects/deathmachine",
-        "teaser": null
-      },{
-        "title": "The Nothing Machine",
-        "excerpt":"This is the machine I just didn’t build… I really like machine design.  ","categories": [],
-        "tags": [],
-        "url": "/engineeringprojects/nothingmachine",
-        "teaser": null
-      },{
         "title": "Website Built With Jekyll & Github Pages",
-        "excerpt":"Hopefully you’ve been navigating the first engineering project of my portfolio and you’re impressed. You shouldn’t be that impressed yet actually, because building a website is pretty easy these days. The caveat to that is if you choose to make building a website slightly harder on purpose. This might make...","categories": [],
+        "excerpt":"On The Engineering Process: I use these information notes to make it clear where I am at in my engineering process. To learn about this, please take a look at My Engineering Process on the About the page. Hopefully you’ve been navigating the first engineering project of my portfolio and...","categories": [],
         "tags": [],
         "url": "/engineeringprojects/websitewithjekyll",
-        "teaser": null
-      },{
-        "title": "Life Machine",
-        "excerpt":"I had to build a machine to counteract my death machine.   Since I didn’t really build a death machine, there was really no need to build a life machine.  ","categories": [],
-        "tags": [],
-        "url": "/engineeringprojects/lifemachine",
         "teaser": null
       },{
         "title": "Welcome!",
